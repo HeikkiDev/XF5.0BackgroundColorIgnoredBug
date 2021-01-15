@@ -1,0 +1,1 @@
+# XF5.0ChangeVisibilityBug
