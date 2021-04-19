@@ -1,3 +1,3 @@
-# XF5.0ChangeVisibilityBug
+# XF5.0BackgroundColorIgnoredBug
 
-Xamarin.Forms 5.0 bug: https://github.com/xamarin/Xamarin.Forms/issues/13418
+Xamarin.Forms 5 bug: https://github.com/xamarin/Xamarin.Forms/issues/xxxxxxxxxxxxx
